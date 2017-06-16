@@ -7,3 +7,7 @@
   FusedLocation 
   Provider,
   Google maps
+作ったアプリの写真も見ることご出来ます。
+map.pngアプリをスタートする時現れる画像、前に保存したマーカーが全部見えます
+地図を長く押せば、category.pngで見えるカテゴリーを選べば、別のリストから(item.png)コンメントーを選ぶことができます。
+(notification.png)ユーザーはマーカーに近くに来たらをアプリはを送ります。

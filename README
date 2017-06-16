@@ -1,0 +1,8 @@
+このプロジェクトでユーザーはGoogleMapに色々なマーカーを作って、ユーザーは歩きながら、アプリはユーザーの居場所を調べて、もしユーザーは前に入れたマーカーの近くに行ったら、アプリはユーザーにNotificationでマーカーの情報を知らせします。 
+ユーザーに作られたマーカーをSQLiteDatabaseに保存しいる ユーザーはマーカーを作るや消すことができる。アプリをEmulatorに試した。
+プロジェクトに使ったライブラリーやことは： 
+  SharedPrefer,
+  SQLite,
+  FusedLocation 
+  Provider,
+  Google maps
